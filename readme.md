@@ -7,3 +7,4 @@ exchange rates from different exchanges.
 
 Here are potential data sources
 * http://bitcoincharts.com/about/markets-api/
+* http://blockchain.info/api
